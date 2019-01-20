@@ -12,3 +12,7 @@ new Vue({
   router,
   render: h => h(App),
 });
+
+
+git add .
+GIT_AUTHOR_DATE="2019-01-20T14:30:00" GIT_COMMITTER_DATE="2019-05-20T14:30:00" git commit -m "Feature: Router config added"
