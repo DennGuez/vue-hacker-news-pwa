@@ -1,6 +1,6 @@
 ## Hacker News Reader using Vue.js
 
-#### [Link to Application](https://anubhav7495.github.io/hnpwa-vue)
+#### [Link to Application](https://www.infinityfree.com/vue-hacker-news-pwa)
 
 A hacker news reader pwa (Progressive Web App) built using Vue.js and Vue-router.
 
